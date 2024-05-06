@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "688828851515",
+    "firebase_url": "https://rtdatabase-1a3ce-default-rtdb.firebaseio.com",
+    "project_id": "rtdatabase-1a3ce",
+    "storage_bucket": "rtdatabase-1a3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688828851515:android:62179d0fce12550ae6c31e",
+        "android_client_info": {
+          "package_name": "com.example.rtdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ543BkSKhXV3bdsQZvM7AsbkVbkDUKQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
