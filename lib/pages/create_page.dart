@@ -68,7 +68,7 @@ class _CreatePageState extends State<CreatePage> {
                   child: SizedBox(
                     height: 100,
                     width: 100,
-                    child: _image != null ? Image.file(File(_image!.path), fit: BoxFit.cover,)
+                    child: _image != null ? Image.file((_image!.path), fit: BoxFit.cover,)
                     : Image.asset('assets/images/img.png'),
                   ),
                 ),
@@ -107,10 +107,4 @@ class _CreatePageState extends State<CreatePage> {
       ),
     );
   }
-
-
-
-
-
-
 }
